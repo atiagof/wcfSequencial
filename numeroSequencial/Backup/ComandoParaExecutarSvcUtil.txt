@@ -1,0 +1,60 @@
+**********************************************************************
+** Visual Studio 2017 Developer Command Prompt v15.6.1
+** Copyright (c) 2017 Microsoft Corporation
+**********************************************************************
+
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community>cd c:\projetos
+
+c:\Projetos>cd numeroSequencial_WCF
+
+c:\Projetos\numeroSequencial_WCF>cd numeroSequencial
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial>cd appCliente
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 ToolsC:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 ToolsC:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\svcUtil.exe" http://localhost:58435/Site/Servico.svc?wsdl /out:ServicoRef.cs /config:App.config
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 ToolsC:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 ToolsC:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcUtil.exe" http://localhost:58435/Site/Servico.svc?wsdl /out:ServicoRef.cs /config:App.config
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcUtil.exe" http://localhost:58435/Site/Servico.svc?wsdl /out:ServicoRef.cs /config:App.config
+Microsoft (R) Service Model Metadata Tool
+[Microsoft (R) Windows (R) Communication Foundation, Version 4.6.1055.0]
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Attempting to download metadata from 'http://localhost:58435/Site/Servico.svc?wsdl' using WS-Metadata Exchange or DISCO.
+Generating files...
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\ServicoRef.cs
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\App.config
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcUtil.exe" http://localhost:58435/Site/Servico.svc?wsdl /out:ServicoRef.cs /config:App.config
+Microsoft (R) Service Model Metadata Tool
+[Microsoft (R) Windows (R) Communication Foundation, Version 4.6.1055.0]
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Attempting to download metadata from 'http://localhost:58435/Site/Servico.svc?wsdl' using WS-Metadata Exchange or DISCO.
+Generating files...
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\ServicoRef.cs
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\App.config
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcUtil.exe" http://localhost:58435/Site/Servico.svc?wsdl /out:ServicoRef.cs /config:App.config
+Microsoft (R) Service Model Metadata Tool
+[Microsoft (R) Windows (R) Communication Foundation, Version 4.6.1055.0]
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Attempting to download metadata from 'http://localhost:58435/Site/Servico.svc?wsdl' using WS-Metadata Exchange or DISCO.
+Generating files...
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\ServicoRef.cs
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\App.config
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcUtil.exe" http://localhost:58435/Site/Servico.svc?wsdl /out:ServicoRef.cs /config:App.config
+Microsoft (R) Service Model Metadata Tool
+[Microsoft (R) Windows (R) Communication Foundation, Version 4.6.1055.0]
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Attempting to download metadata from 'http://localhost:58435/Site/Servico.svc?wsdl' using WS-Metadata Exchange or DISCO.
+Generating files...
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\ServicoRef.cs
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\App.config
+
+c:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente>

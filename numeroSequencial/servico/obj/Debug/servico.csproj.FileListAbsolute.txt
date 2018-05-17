@@ -1,0 +1,6 @@
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\servico\bin\Debug\servico.dll
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\servico\bin\Debug\servico.pdb
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\servico\obj\Debug\servico.csprojResolveAssemblyReference.cache
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\servico\obj\Debug\servico.csproj.CoreCompileInputs.cache
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\servico\obj\Debug\servico.dll
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\servico\obj\Debug\servico.pdb

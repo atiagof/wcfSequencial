@@ -1,0 +1,7 @@
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\bin\Debug\appCliente.exe.config
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\bin\Debug\appCliente.exe
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\bin\Debug\appCliente.pdb
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\obj\Debug\appCliente.csproj.CoreCompileInputs.cache
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\obj\Debug\appCliente.exe
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\obj\Debug\appCliente.pdb
+C:\Projetos\numeroSequencial_WCF\numeroSequencial\appCliente\obj\Debug\appCliente.csprojResolveAssemblyReference.cache
